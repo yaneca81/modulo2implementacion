@@ -1,0 +1,323 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\RONALD\\MDG-1\\Area-2\\Api_Centro_de_Salud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5615BD73-842E-4991-BAB4-8E1B1ED86639}|Api_Centro_de_Salud\\Api_Centro_de_Salud.csproj|d:\\ronald\\mdg-1\\area-2\\api_centro_de_salud\\api_centro_de_salud\\controllers\\notificacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5615BD73-842E-4991-BAB4-8E1B1ED86639}|Api_Centro_de_Salud\\Api_Centro_de_Salud.csproj|solutionrelative:api_centro_de_salud\\controllers\\notificacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5615BD73-842E-4991-BAB4-8E1B1ED86639}|Api_Centro_de_Salud\\Api_Centro_de_Salud.csproj|d:\\ronald\\mdg-1\\area-2\\api_centro_de_salud\\api_centro_de_salud\\models\\notificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5615BD73-842E-4991-BAB4-8E1B1ED86639}|Api_Centro_de_Salud\\Api_Centro_de_Salud.csproj|solutionrelative:api_centro_de_salud\\models\\notificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5615BD73-842E-4991-BAB4-8E1B1ED86639}|Api_Centro_de_Salud\\Api_Centro_de_Salud.csproj|d:\\ronald\\mdg-1\\area-2\\api_centro_de_salud\\api_centro_de_salud\\controllers\\expedientemedicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5615BD73-842E-4991-BAB4-8E1B1ED86639}|Api_Centro_de_Salud\\Api_Centro_de_Salud.csproj|solutionrelative:api_centro_de_salud\\controllers\\expedientemedicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5615BD73-842E-4991-BAB4-8E1B1ED86639}|Api_Centro_de_Salud\\Api_Centro_de_Salud.csproj|d:\\ronald\\mdg-1\\area-2\\api_centro_de_salud\\api_centro_de_salud\\models\\expedientemedico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5615BD73-842E-4991-BAB4-8E1B1ED86639}|Api_Centro_de_Salud\\Api_Centro_de_Salud.csproj|solutionrelative:api_centro_de_salud\\models\\expedientemedico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5615BD73-842E-4991-BAB4-8E1B1ED86639}|Api_Centro_de_Salud\\Api_Centro_de_Salud.csproj|d:\\ronald\\mdg-1\\area-2\\api_centro_de_salud\\api_centro_de_salud\\controllers\\hospitalizacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5615BD73-842E-4991-BAB4-8E1B1ED86639}|Api_Centro_de_Salud\\Api_Centro_de_Salud.csproj|solutionrelative:api_centro_de_salud\\controllers\\hospitalizacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5615BD73-842E-4991-BAB4-8E1B1ED86639}|Api_Centro_de_Salud\\Api_Centro_de_Salud.csproj|d:\\ronald\\mdg-1\\area-2\\api_centro_de_salud\\api_centro_de_salud\\models\\hospitalizacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5615BD73-842E-4991-BAB4-8E1B1ED86639}|Api_Centro_de_Salud\\Api_Centro_de_Salud.csproj|solutionrelative:api_centro_de_salud\\models\\hospitalizacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5615BD73-842E-4991-BAB4-8E1B1ED86639}|Api_Centro_de_Salud\\Api_Centro_de_Salud.csproj|d:\\ronald\\mdg-1\\area-2\\api_centro_de_salud\\api_centro_de_salud\\controllers\\citacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5615BD73-842E-4991-BAB4-8E1B1ED86639}|Api_Centro_de_Salud\\Api_Centro_de_Salud.csproj|solutionrelative:api_centro_de_salud\\controllers\\citacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5615BD73-842E-4991-BAB4-8E1B1ED86639}|Api_Centro_de_Salud\\Api_Centro_de_Salud.csproj|d:\\ronald\\mdg-1\\area-2\\api_centro_de_salud\\api_centro_de_salud\\models\\cita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5615BD73-842E-4991-BAB4-8E1B1ED86639}|Api_Centro_de_Salud\\Api_Centro_de_Salud.csproj|solutionrelative:api_centro_de_salud\\models\\cita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5615BD73-842E-4991-BAB4-8E1B1ED86639}|Api_Centro_de_Salud\\Api_Centro_de_Salud.csproj|d:\\ronald\\mdg-1\\area-2\\api_centro_de_salud\\api_centro_de_salud\\controllers\\pacientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5615BD73-842E-4991-BAB4-8E1B1ED86639}|Api_Centro_de_Salud\\Api_Centro_de_Salud.csproj|solutionrelative:api_centro_de_salud\\controllers\\pacientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5615BD73-842E-4991-BAB4-8E1B1ED86639}|Api_Centro_de_Salud\\Api_Centro_de_Salud.csproj|d:\\ronald\\mdg-1\\area-2\\api_centro_de_salud\\api_centro_de_salud\\controllers\\medicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5615BD73-842E-4991-BAB4-8E1B1ED86639}|Api_Centro_de_Salud\\Api_Centro_de_Salud.csproj|solutionrelative:api_centro_de_salud\\controllers\\medicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5615BD73-842E-4991-BAB4-8E1B1ED86639}|Api_Centro_de_Salud\\Api_Centro_de_Salud.csproj|d:\\ronald\\mdg-1\\area-2\\api_centro_de_salud\\api_centro_de_salud\\controllers\\efermerocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5615BD73-842E-4991-BAB4-8E1B1ED86639}|Api_Centro_de_Salud\\Api_Centro_de_Salud.csproj|solutionrelative:api_centro_de_salud\\controllers\\efermerocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5615BD73-842E-4991-BAB4-8E1B1ED86639}|Api_Centro_de_Salud\\Api_Centro_de_Salud.csproj|d:\\ronald\\mdg-1\\area-2\\api_centro_de_salud\\api_centro_de_salud\\models\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5615BD73-842E-4991-BAB4-8E1B1ED86639}|Api_Centro_de_Salud\\Api_Centro_de_Salud.csproj|solutionrelative:api_centro_de_salud\\models\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5615BD73-842E-4991-BAB4-8E1B1ED86639}|Api_Centro_de_Salud\\Api_Centro_de_Salud.csproj|d:\\ronald\\mdg-1\\area-2\\api_centro_de_salud\\api_centro_de_salud\\models\\enfermero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5615BD73-842E-4991-BAB4-8E1B1ED86639}|Api_Centro_de_Salud\\Api_Centro_de_Salud.csproj|solutionrelative:api_centro_de_salud\\models\\enfermero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5615BD73-842E-4991-BAB4-8E1B1ED86639}|Api_Centro_de_Salud\\Api_Centro_de_Salud.csproj|d:\\ronald\\mdg-1\\area-2\\api_centro_de_salud\\api_centro_de_salud\\models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5615BD73-842E-4991-BAB4-8E1B1ED86639}|Api_Centro_de_Salud\\Api_Centro_de_Salud.csproj|solutionrelative:api_centro_de_salud\\models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5615BD73-842E-4991-BAB4-8E1B1ED86639}|Api_Centro_de_Salud\\Api_Centro_de_Salud.csproj|d:\\ronald\\mdg-1\\area-2\\api_centro_de_salud\\api_centro_de_salud\\data\\conexiondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5615BD73-842E-4991-BAB4-8E1B1ED86639}|Api_Centro_de_Salud\\Api_Centro_de_Salud.csproj|solutionrelative:api_centro_de_salud\\data\\conexiondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5615BD73-842E-4991-BAB4-8E1B1ED86639}|Api_Centro_de_Salud\\Api_Centro_de_Salud.csproj|d:\\ronald\\mdg-1\\area-2\\api_centro_de_salud\\api_centro_de_salud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5615BD73-842E-4991-BAB4-8E1B1ED86639}|Api_Centro_de_Salud\\Api_Centro_de_Salud.csproj|solutionrelative:api_centro_de_salud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5615BD73-842E-4991-BAB4-8E1B1ED86639}|Api_Centro_de_Salud\\Api_Centro_de_Salud.csproj|d:\\ronald\\mdg-1\\area-2\\api_centro_de_salud\\api_centro_de_salud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5615BD73-842E-4991-BAB4-8E1B1ED86639}|Api_Centro_de_Salud\\Api_Centro_de_Salud.csproj|solutionrelative:api_centro_de_salud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5615BD73-842E-4991-BAB4-8E1B1ED86639}|Api_Centro_de_Salud\\Api_Centro_de_Salud.csproj|d:\\ronald\\mdg-1\\area-2\\api_centro_de_salud\\api_centro_de_salud\\migrations\\20241123032816_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5615BD73-842E-4991-BAB4-8E1B1ED86639}|Api_Centro_de_Salud\\Api_Centro_de_Salud.csproj|solutionrelative:api_centro_de_salud\\migrations\\20241123032816_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExpedienteMedicoController.cs",
+              "DocumentMoniker": "D:\\RONALD\\MDG-1\\Area-2\\Api_Centro_de_Salud\\Api_Centro_de_Salud\\Controllers\\ExpedienteMedicoController.cs",
+              "RelativeDocumentMoniker": "Api_Centro_de_Salud\\Controllers\\ExpedienteMedicoController.cs",
+              "ToolTip": "D:\\RONALD\\MDG-1\\Area-2\\Api_Centro_de_Salud\\Api_Centro_de_Salud\\Controllers\\ExpedienteMedicoController.cs",
+              "RelativeToolTip": "Api_Centro_de_Salud\\Controllers\\ExpedienteMedicoController.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAkwEYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T10:44:03.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NotificacionController.cs",
+              "DocumentMoniker": "D:\\RONALD\\MDG-1\\Area-2\\Api_Centro_de_Salud\\Api_Centro_de_Salud\\Controllers\\NotificacionController.cs",
+              "RelativeDocumentMoniker": "Api_Centro_de_Salud\\Controllers\\NotificacionController.cs",
+              "ToolTip": "D:\\RONALD\\MDG-1\\Area-2\\Api_Centro_de_Salud\\Api_Centro_de_Salud\\Controllers\\NotificacionController.cs",
+              "RelativeToolTip": "Api_Centro_de_Salud\\Controllers\\NotificacionController.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAkwEIAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T10:45:17.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExpedienteMedico.cs",
+              "DocumentMoniker": "D:\\RONALD\\MDG-1\\Area-2\\Api_Centro_de_Salud\\Api_Centro_de_Salud\\Models\\ExpedienteMedico.cs",
+              "RelativeDocumentMoniker": "Api_Centro_de_Salud\\Models\\ExpedienteMedico.cs",
+              "ToolTip": "D:\\RONALD\\MDG-1\\Area-2\\Api_Centro_de_Salud\\Api_Centro_de_Salud\\Models\\ExpedienteMedico.cs",
+              "RelativeToolTip": "Api_Centro_de_Salud\\Models\\ExpedienteMedico.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwBEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T03:03:40.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HospitalizacionController.cs",
+              "DocumentMoniker": "D:\\RONALD\\MDG-1\\Area-2\\Api_Centro_de_Salud\\Api_Centro_de_Salud\\Controllers\\HospitalizacionController.cs",
+              "RelativeDocumentMoniker": "Api_Centro_de_Salud\\Controllers\\HospitalizacionController.cs",
+              "ToolTip": "D:\\RONALD\\MDG-1\\Area-2\\Api_Centro_de_Salud\\Api_Centro_de_Salud\\Controllers\\HospitalizacionController.cs",
+              "RelativeToolTip": "Api_Centro_de_Salud\\Controllers\\HospitalizacionController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T10:44:29.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Hospitalizacion.cs",
+              "DocumentMoniker": "D:\\RONALD\\MDG-1\\Area-2\\Api_Centro_de_Salud\\Api_Centro_de_Salud\\Models\\Hospitalizacion.cs",
+              "RelativeDocumentMoniker": "Api_Centro_de_Salud\\Models\\Hospitalizacion.cs",
+              "ToolTip": "D:\\RONALD\\MDG-1\\Area-2\\Api_Centro_de_Salud\\Api_Centro_de_Salud\\Models\\Hospitalizacion.cs",
+              "RelativeToolTip": "Api_Centro_de_Salud\\Models\\Hospitalizacion.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T02:57:15.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Notificacion.cs",
+              "DocumentMoniker": "D:\\RONALD\\MDG-1\\Area-2\\Api_Centro_de_Salud\\Api_Centro_de_Salud\\Models\\Notificacion.cs",
+              "RelativeDocumentMoniker": "Api_Centro_de_Salud\\Models\\Notificacion.cs",
+              "ToolTip": "D:\\RONALD\\MDG-1\\Area-2\\Api_Centro_de_Salud\\Api_Centro_de_Salud\\Models\\Notificacion.cs",
+              "RelativeToolTip": "Api_Centro_de_Salud\\Models\\Notificacion.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T03:08:32.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CitaController.cs",
+              "DocumentMoniker": "D:\\RONALD\\MDG-1\\Area-2\\Api_Centro_de_Salud\\Api_Centro_de_Salud\\Controllers\\CitaController.cs",
+              "RelativeDocumentMoniker": "Api_Centro_de_Salud\\Controllers\\CitaController.cs",
+              "ToolTip": "D:\\RONALD\\MDG-1\\Area-2\\Api_Centro_de_Salud\\Api_Centro_de_Salud\\Controllers\\CitaController.cs",
+              "RelativeToolTip": "Api_Centro_de_Salud\\Controllers\\CitaController.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAowEUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T10:42:35.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cita.cs",
+              "DocumentMoniker": "D:\\RONALD\\MDG-1\\Area-2\\Api_Centro_de_Salud\\Api_Centro_de_Salud\\Models\\Cita.cs",
+              "RelativeDocumentMoniker": "Api_Centro_de_Salud\\Models\\Cita.cs",
+              "ToolTip": "D:\\RONALD\\MDG-1\\Area-2\\Api_Centro_de_Salud\\Api_Centro_de_Salud\\Models\\Cita.cs",
+              "RelativeToolTip": "Api_Centro_de_Salud\\Models\\Cita.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T03:10:46.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Medico.cs",
+              "DocumentMoniker": "D:\\RONALD\\MDG-1\\Area-2\\Api_Centro_de_Salud\\Api_Centro_de_Salud\\Models\\Medico.cs",
+              "RelativeDocumentMoniker": "Api_Centro_de_Salud\\Models\\Medico.cs",
+              "ToolTip": "D:\\RONALD\\MDG-1\\Area-2\\Api_Centro_de_Salud\\Api_Centro_de_Salud\\Models\\Medico.cs",
+              "RelativeToolTip": "Api_Centro_de_Salud\\Models\\Medico.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwB4AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T03:01:10.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Enfermero.cs",
+              "DocumentMoniker": "D:\\RONALD\\MDG-1\\Area-2\\Api_Centro_de_Salud\\Api_Centro_de_Salud\\Models\\Enfermero.cs",
+              "RelativeDocumentMoniker": "Api_Centro_de_Salud\\Models\\Enfermero.cs",
+              "ToolTip": "D:\\RONALD\\MDG-1\\Area-2\\Api_Centro_de_Salud\\Api_Centro_de_Salud\\Models\\Enfermero.cs",
+              "RelativeToolTip": "Api_Centro_de_Salud\\Models\\Enfermero.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T03:07:29.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EfermeroController.cs",
+              "DocumentMoniker": "D:\\RONALD\\MDG-1\\Area-2\\Api_Centro_de_Salud\\Api_Centro_de_Salud\\Controllers\\EfermeroController.cs",
+              "RelativeDocumentMoniker": "Api_Centro_de_Salud\\Controllers\\EfermeroController.cs",
+              "ToolTip": "D:\\RONALD\\MDG-1\\Area-2\\Api_Centro_de_Salud\\Api_Centro_de_Salud\\Controllers\\EfermeroController.cs",
+              "RelativeToolTip": "Api_Centro_de_Salud\\Controllers\\EfermeroController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T10:43:38.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Paciente.cs",
+              "DocumentMoniker": "D:\\RONALD\\MDG-1\\Area-2\\Api_Centro_de_Salud\\Api_Centro_de_Salud\\Models\\Paciente.cs",
+              "RelativeDocumentMoniker": "Api_Centro_de_Salud\\Models\\Paciente.cs",
+              "ToolTip": "D:\\RONALD\\MDG-1\\Area-2\\Api_Centro_de_Salud\\Api_Centro_de_Salud\\Models\\Paciente.cs",
+              "RelativeToolTip": "Api_Centro_de_Salud\\Models\\Paciente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T20:29:00.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MedicoController.cs",
+              "DocumentMoniker": "D:\\RONALD\\MDG-1\\Area-2\\Api_Centro_de_Salud\\Api_Centro_de_Salud\\Controllers\\MedicoController.cs",
+              "RelativeDocumentMoniker": "Api_Centro_de_Salud\\Controllers\\MedicoController.cs",
+              "ToolTip": "D:\\RONALD\\MDG-1\\Area-2\\Api_Centro_de_Salud\\Api_Centro_de_Salud\\Controllers\\MedicoController.cs",
+              "RelativeToolTip": "Api_Centro_de_Salud\\Controllers\\MedicoController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwDYAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T10:44:50.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PacienteController.cs",
+              "DocumentMoniker": "D:\\RONALD\\MDG-1\\Area-2\\Api_Centro_de_Salud\\Api_Centro_de_Salud\\Controllers\\PacienteController.cs",
+              "RelativeDocumentMoniker": "Api_Centro_de_Salud\\Controllers\\PacienteController.cs",
+              "ToolTip": "D:\\RONALD\\MDG-1\\Area-2\\Api_Centro_de_Salud\\Api_Centro_de_Salud\\Controllers\\PacienteController.cs",
+              "RelativeToolTip": "Api_Centro_de_Salud\\Controllers\\PacienteController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T10:45:49.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20241123032816_first.cs",
+              "DocumentMoniker": "D:\\RONALD\\MDG-1\\Area-2\\Api_Centro_de_Salud\\Api_Centro_de_Salud\\Migrations\\20241123032816_first.cs",
+              "RelativeDocumentMoniker": "Api_Centro_de_Salud\\Migrations\\20241123032816_first.cs",
+              "ToolTip": "D:\\RONALD\\MDG-1\\Area-2\\Api_Centro_de_Salud\\Api_Centro_de_Salud\\Migrations\\20241123032816_first.cs",
+              "RelativeToolTip": "Api_Centro_de_Salud\\Migrations\\20241123032816_first.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T03:28:18.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\RONALD\\MDG-1\\Area-2\\Api_Centro_de_Salud\\Api_Centro_de_Salud\\Program.cs",
+              "RelativeDocumentMoniker": "Api_Centro_de_Salud\\Program.cs",
+              "ToolTip": "D:\\RONALD\\MDG-1\\Area-2\\Api_Centro_de_Salud\\Api_Centro_de_Salud\\Program.cs",
+              "RelativeToolTip": "Api_Centro_de_Salud\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T20:16:39.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ConexionDB.cs",
+              "DocumentMoniker": "D:\\RONALD\\MDG-1\\Area-2\\Api_Centro_de_Salud\\Api_Centro_de_Salud\\Data\\ConexionDB.cs",
+              "RelativeDocumentMoniker": "Api_Centro_de_Salud\\Data\\ConexionDB.cs",
+              "ToolTip": "D:\\RONALD\\MDG-1\\Area-2\\Api_Centro_de_Salud\\Api_Centro_de_Salud\\Data\\ConexionDB.cs",
+              "RelativeToolTip": "Api_Centro_de_Salud\\Data\\ConexionDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T20:16:14.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\RONALD\\MDG-1\\Area-2\\Api_Centro_de_Salud\\Api_Centro_de_Salud\\appsettings.json",
+              "RelativeDocumentMoniker": "Api_Centro_de_Salud\\appsettings.json",
+              "ToolTip": "D:\\RONALD\\MDG-1\\Area-2\\Api_Centro_de_Salud\\Api_Centro_de_Salud\\appsettings.json",
+              "RelativeToolTip": "Api_Centro_de_Salud\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-21T20:06:43.874Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
