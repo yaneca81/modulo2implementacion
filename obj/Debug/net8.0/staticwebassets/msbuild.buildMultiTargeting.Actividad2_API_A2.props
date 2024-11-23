@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Actividad2_API_A2.props" />
+</Project>
