@@ -1,0 +1,398 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Pao\\Clinica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6983CEAA-F82F-4CEB-85D3-D9757E7CA140}|Clinica\\Clinica.csproj|d:\\pao\\clinica\\clinica\\models\\cita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6983CEAA-F82F-4CEB-85D3-D9757E7CA140}|Clinica\\Clinica.csproj|solutionrelative:clinica\\models\\cita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6983CEAA-F82F-4CEB-85D3-D9757E7CA140}|Clinica\\Clinica.csproj|d:\\pao\\clinica\\clinica\\data\\dataclinica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6983CEAA-F82F-4CEB-85D3-D9757E7CA140}|Clinica\\Clinica.csproj|solutionrelative:clinica\\data\\dataclinica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6983CEAA-F82F-4CEB-85D3-D9757E7CA140}|Clinica\\Clinica.csproj|d:\\pao\\clinica\\clinica\\controllers\\videollamadacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6983CEAA-F82F-4CEB-85D3-D9757E7CA140}|Clinica\\Clinica.csproj|solutionrelative:clinica\\controllers\\videollamadacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6983CEAA-F82F-4CEB-85D3-D9757E7CA140}|Clinica\\Clinica.csproj|d:\\pao\\clinica\\clinica\\controllers\\tratamientocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6983CEAA-F82F-4CEB-85D3-D9757E7CA140}|Clinica\\Clinica.csproj|solutionrelative:clinica\\controllers\\tratamientocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6983CEAA-F82F-4CEB-85D3-D9757E7CA140}|Clinica\\Clinica.csproj|d:\\pao\\clinica\\clinica\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6983CEAA-F82F-4CEB-85D3-D9757E7CA140}|Clinica\\Clinica.csproj|solutionrelative:clinica\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6983CEAA-F82F-4CEB-85D3-D9757E7CA140}|Clinica\\Clinica.csproj|d:\\pao\\clinica\\clinica\\controllers\\pacientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6983CEAA-F82F-4CEB-85D3-D9757E7CA140}|Clinica\\Clinica.csproj|solutionrelative:clinica\\controllers\\pacientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6983CEAA-F82F-4CEB-85D3-D9757E7CA140}|Clinica\\Clinica.csproj|d:\\pao\\clinica\\clinica\\controllers\\medicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6983CEAA-F82F-4CEB-85D3-D9757E7CA140}|Clinica\\Clinica.csproj|solutionrelative:clinica\\controllers\\medicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6983CEAA-F82F-4CEB-85D3-D9757E7CA140}|Clinica\\Clinica.csproj|d:\\pao\\clinica\\clinica\\controllers\\citacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6983CEAA-F82F-4CEB-85D3-D9757E7CA140}|Clinica\\Clinica.csproj|solutionrelative:clinica\\controllers\\citacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6983CEAA-F82F-4CEB-85D3-D9757E7CA140}|Clinica\\Clinica.csproj|d:\\pao\\clinica\\clinica\\controllers\\historial_clinicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6983CEAA-F82F-4CEB-85D3-D9757E7CA140}|Clinica\\Clinica.csproj|solutionrelative:clinica\\controllers\\historial_clinicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6983CEAA-F82F-4CEB-85D3-D9757E7CA140}|Clinica\\Clinica.csproj|d:\\pao\\clinica\\clinica\\models\\videollamada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6983CEAA-F82F-4CEB-85D3-D9757E7CA140}|Clinica\\Clinica.csproj|solutionrelative:clinica\\models\\videollamada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6983CEAA-F82F-4CEB-85D3-D9757E7CA140}|Clinica\\Clinica.csproj|d:\\pao\\clinica\\clinica\\models\\tratamiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6983CEAA-F82F-4CEB-85D3-D9757E7CA140}|Clinica\\Clinica.csproj|solutionrelative:clinica\\models\\tratamiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6983CEAA-F82F-4CEB-85D3-D9757E7CA140}|Clinica\\Clinica.csproj|d:\\pao\\clinica\\clinica\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6983CEAA-F82F-4CEB-85D3-D9757E7CA140}|Clinica\\Clinica.csproj|solutionrelative:clinica\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6983CEAA-F82F-4CEB-85D3-D9757E7CA140}|Clinica\\Clinica.csproj|d:\\pao\\clinica\\clinica\\models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6983CEAA-F82F-4CEB-85D3-D9757E7CA140}|Clinica\\Clinica.csproj|solutionrelative:clinica\\models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6983CEAA-F82F-4CEB-85D3-D9757E7CA140}|Clinica\\Clinica.csproj|d:\\pao\\clinica\\clinica\\models\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6983CEAA-F82F-4CEB-85D3-D9757E7CA140}|Clinica\\Clinica.csproj|solutionrelative:clinica\\models\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6983CEAA-F82F-4CEB-85D3-D9757E7CA140}|Clinica\\Clinica.csproj|d:\\pao\\clinica\\clinica\\models\\historial_clinico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6983CEAA-F82F-4CEB-85D3-D9757E7CA140}|Clinica\\Clinica.csproj|solutionrelative:clinica\\models\\historial_clinico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6983CEAA-F82F-4CEB-85D3-D9757E7CA140}|Clinica\\Clinica.csproj|d:\\pao\\clinica\\clinica\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6983CEAA-F82F-4CEB-85D3-D9757E7CA140}|Clinica\\Clinica.csproj|solutionrelative:clinica\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Pao\\Clinica\\Clinica\\Migrations\\20241123004816_Clinica2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Clinica\\Migrations\\20241123004816_Clinica2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Pao\\Clinica\\Clinica\\Migrations\\20241123004344_Clinica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Clinica\\Migrations\\20241123004344_Clinica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Pao\\Clinica\\Clinica\\Migrations\\20241123001250_clinicaP.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Clinica\\Migrations\\20241123001250_clinicaP.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6983CEAA-F82F-4CEB-85D3-D9757E7CA140}|Clinica\\Clinica.csproj|d:\\pao\\clinica\\clinica\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6983CEAA-F82F-4CEB-85D3-D9757E7CA140}|Clinica\\Clinica.csproj|solutionrelative:clinica\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Pao\\Clinica\\Clinica\\Migrations\\20241122224009_clinicaP.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Clinica\\Migrations\\20241122224009_clinicaP.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6983CEAA-F82F-4CEB-85D3-D9757E7CA140}|Clinica\\Clinica.csproj|d:\\pao\\clinica\\clinica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6983CEAA-F82F-4CEB-85D3-D9757E7CA140}|Clinica\\Clinica.csproj|solutionrelative:clinica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PersonaController.cs",
+              "DocumentMoniker": "D:\\Pao\\Clinica\\Clinica\\Controllers\\PersonaController.cs",
+              "RelativeDocumentMoniker": "Clinica\\Controllers\\PersonaController.cs",
+              "ToolTip": "D:\\Pao\\Clinica\\Clinica\\Controllers\\PersonaController.cs",
+              "RelativeToolTip": "Clinica\\Controllers\\PersonaController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowBkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T23:19:39.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TratamientoController.cs",
+              "DocumentMoniker": "D:\\Pao\\Clinica\\Clinica\\Controllers\\TratamientoController.cs",
+              "RelativeDocumentMoniker": "Clinica\\Controllers\\TratamientoController.cs",
+              "ToolTip": "D:\\Pao\\Clinica\\Clinica\\Controllers\\TratamientoController.cs",
+              "RelativeToolTip": "Clinica\\Controllers\\TratamientoController.cs",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAmwIgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T23:20:18.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VideoLlamadaController.cs",
+              "DocumentMoniker": "D:\\Pao\\Clinica\\Clinica\\Controllers\\VideoLlamadaController.cs",
+              "RelativeDocumentMoniker": "Clinica\\Controllers\\VideoLlamadaController.cs",
+              "ToolTip": "D:\\Pao\\Clinica\\Clinica\\Controllers\\VideoLlamadaController.cs",
+              "RelativeToolTip": "Clinica\\Controllers\\VideoLlamadaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T23:20:57.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataClinica.cs",
+              "DocumentMoniker": "D:\\Pao\\Clinica\\Clinica\\Data\\DataClinica.cs",
+              "RelativeDocumentMoniker": "Clinica\\Data\\DataClinica.cs",
+              "ToolTip": "D:\\Pao\\Clinica\\Clinica\\Data\\DataClinica.cs",
+              "RelativeToolTip": "Clinica\\Data\\DataClinica.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAYwD8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T04:52:48.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cita.cs",
+              "DocumentMoniker": "D:\\Pao\\Clinica\\Clinica\\Models\\Cita.cs",
+              "RelativeDocumentMoniker": "Clinica\\Models\\Cita.cs",
+              "ToolTip": "D:\\Pao\\Clinica\\Clinica\\Models\\Cita.cs",
+              "RelativeToolTip": "Clinica\\Models\\Cita.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowBUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T04:52:08.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PacienteController.cs",
+              "DocumentMoniker": "D:\\Pao\\Clinica\\Clinica\\Controllers\\PacienteController.cs",
+              "RelativeDocumentMoniker": "Clinica\\Controllers\\PacienteController.cs",
+              "ToolTip": "D:\\Pao\\Clinica\\Clinica\\Controllers\\PacienteController.cs",
+              "RelativeToolTip": "Clinica\\Controllers\\PacienteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T23:10:26.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MedicoController.cs",
+              "DocumentMoniker": "D:\\Pao\\Clinica\\Clinica\\Controllers\\MedicoController.cs",
+              "RelativeDocumentMoniker": "Clinica\\Controllers\\MedicoController.cs",
+              "ToolTip": "D:\\Pao\\Clinica\\Clinica\\Controllers\\MedicoController.cs",
+              "RelativeToolTip": "Clinica\\Controllers\\MedicoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T23:09:54.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CitaController.cs",
+              "DocumentMoniker": "D:\\Pao\\Clinica\\Clinica\\Controllers\\CitaController.cs",
+              "RelativeDocumentMoniker": "Clinica\\Controllers\\CitaController.cs",
+              "ToolTip": "D:\\Pao\\Clinica\\Clinica\\Controllers\\CitaController.cs",
+              "RelativeToolTip": "Clinica\\Controllers\\CitaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T23:08:18.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Historial_ClinicoController.cs",
+              "DocumentMoniker": "D:\\Pao\\Clinica\\Clinica\\Controllers\\Historial_ClinicoController.cs",
+              "RelativeDocumentMoniker": "Clinica\\Controllers\\Historial_ClinicoController.cs",
+              "ToolTip": "D:\\Pao\\Clinica\\Clinica\\Controllers\\Historial_ClinicoController.cs",
+              "RelativeToolTip": "Clinica\\Controllers\\Historial_ClinicoController.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAcwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T23:09:30.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VideoLlamada.cs",
+              "DocumentMoniker": "D:\\Pao\\Clinica\\Clinica\\Models\\VideoLlamada.cs",
+              "RelativeDocumentMoniker": "Clinica\\Models\\VideoLlamada.cs",
+              "ToolTip": "D:\\Pao\\Clinica\\Clinica\\Models\\VideoLlamada.cs",
+              "RelativeToolTip": "Clinica\\Models\\VideoLlamada.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T04:53:11.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "D:\\Pao\\Clinica\\Clinica\\Models\\Persona.cs",
+              "RelativeDocumentMoniker": "Clinica\\Models\\Persona.cs",
+              "ToolTip": "D:\\Pao\\Clinica\\Clinica\\Models\\Persona.cs",
+              "RelativeToolTip": "Clinica\\Models\\Persona.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwA4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T22:20:02.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Paciente.cs",
+              "DocumentMoniker": "D:\\Pao\\Clinica\\Clinica\\Models\\Paciente.cs",
+              "RelativeDocumentMoniker": "Clinica\\Models\\Paciente.cs",
+              "ToolTip": "D:\\Pao\\Clinica\\Clinica\\Models\\Paciente.cs",
+              "RelativeToolTip": "Clinica\\Models\\Paciente.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T04:52:56.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Medico.cs",
+              "DocumentMoniker": "D:\\Pao\\Clinica\\Clinica\\Models\\Medico.cs",
+              "RelativeDocumentMoniker": "Clinica\\Models\\Medico.cs",
+              "ToolTip": "D:\\Pao\\Clinica\\Clinica\\Models\\Medico.cs",
+              "RelativeToolTip": "Clinica\\Models\\Medico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T04:53:00.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Tratamiento.cs",
+              "DocumentMoniker": "D:\\Pao\\Clinica\\Clinica\\Models\\Tratamiento.cs",
+              "RelativeDocumentMoniker": "Clinica\\Models\\Tratamiento.cs",
+              "ToolTip": "D:\\Pao\\Clinica\\Clinica\\Models\\Tratamiento.cs",
+              "RelativeToolTip": "Clinica\\Models\\Tratamiento.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwBsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T04:53:09.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Historial_clinico.cs",
+              "DocumentMoniker": "D:\\Pao\\Clinica\\Clinica\\Models\\Historial_clinico.cs",
+              "RelativeDocumentMoniker": "Clinica\\Models\\Historial_clinico.cs",
+              "ToolTip": "D:\\Pao\\Clinica\\Clinica\\Models\\Historial_clinico.cs",
+              "RelativeToolTip": "Clinica\\Models\\Historial_clinico.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T04:53:02.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Pao\\Clinica\\Clinica\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Clinica\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Pao\\Clinica\\Clinica\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Clinica\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-23T00:50:21.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20241123004816_Clinica2.cs",
+              "DocumentMoniker": "D:\\Pao\\Clinica\\Clinica\\Migrations\\20241123004816_Clinica2.cs",
+              "RelativeDocumentMoniker": "Clinica\\Migrations\\20241123004816_Clinica2.cs",
+              "ToolTip": "D:\\Pao\\Clinica\\Clinica\\Migrations\\20241123004816_Clinica2.cs",
+              "RelativeToolTip": "Clinica\\Migrations\\20241123004816_Clinica2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T00:48:17.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20241123004344_Clinica.cs",
+              "DocumentMoniker": "D:\\Pao\\Clinica\\Clinica\\Migrations\\20241123004344_Clinica.cs",
+              "RelativeDocumentMoniker": "Clinica\\Migrations\\20241123004344_Clinica.cs",
+              "ToolTip": "D:\\Pao\\Clinica\\Clinica\\Migrations\\20241123004344_Clinica.cs",
+              "RelativeToolTip": "Clinica\\Migrations\\20241123004344_Clinica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T00:43:44.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20241123001250_clinicaP.cs",
+              "DocumentMoniker": "D:\\Pao\\Clinica\\Clinica\\Migrations\\20241123001250_clinicaP.cs",
+              "RelativeDocumentMoniker": "Clinica\\Migrations\\20241123001250_clinicaP.cs",
+              "ToolTip": "D:\\Pao\\Clinica\\Clinica\\Migrations\\20241123001250_clinicaP.cs",
+              "RelativeToolTip": "Clinica\\Migrations\\20241123001250_clinicaP.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T00:12:51.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Pao\\Clinica\\Clinica\\appsettings.json",
+              "RelativeDocumentMoniker": "Clinica\\appsettings.json",
+              "ToolTip": "D:\\Pao\\Clinica\\Clinica\\appsettings.json",
+              "RelativeToolTip": "Clinica\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-22T04:53:16.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20241122224009_clinicaP.cs",
+              "DocumentMoniker": "D:\\Pao\\Clinica\\Clinica\\Migrations\\20241122224009_clinicaP.cs",
+              "RelativeDocumentMoniker": "Clinica\\Migrations\\20241122224009_clinicaP.cs",
+              "ToolTip": "D:\\Pao\\Clinica\\Clinica\\Migrations\\20241122224009_clinicaP.cs",
+              "RelativeToolTip": "Clinica\\Migrations\\20241122224009_clinicaP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T22:40:10.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Pao\\Clinica\\Clinica\\Program.cs",
+              "RelativeDocumentMoniker": "Clinica\\Program.cs",
+              "ToolTip": "D:\\Pao\\Clinica\\Clinica\\Program.cs",
+              "RelativeToolTip": "Clinica\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T04:53:51.606Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
