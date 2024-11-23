@@ -1,0 +1,266 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\Practica2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\Practica2\\Practica2\\Migrations\\20241123045630_segunda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Practica2\\Migrations\\20241123045630_segunda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE436320-8DF5-47C4-BE76-F1FFBC4ABFC5}|Practica2\\Practica2.csproj|c:\\users\\user\\source\\repos\\practica2\\practica2\\models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE436320-8DF5-47C4-BE76-F1FFBC4ABFC5}|Practica2\\Practica2.csproj|solutionrelative:practica2\\models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE436320-8DF5-47C4-BE76-F1FFBC4ABFC5}|Practica2\\Practica2.csproj|c:\\users\\user\\source\\repos\\practica2\\practica2\\models\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE436320-8DF5-47C4-BE76-F1FFBC4ABFC5}|Practica2\\Practica2.csproj|solutionrelative:practica2\\models\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE436320-8DF5-47C4-BE76-F1FFBC4ABFC5}|Practica2\\Practica2.csproj|c:\\users\\user\\source\\repos\\practica2\\practica2\\models\\hospitalizacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE436320-8DF5-47C4-BE76-F1FFBC4ABFC5}|Practica2\\Practica2.csproj|solutionrelative:practica2\\models\\hospitalizacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE436320-8DF5-47C4-BE76-F1FFBC4ABFC5}|Practica2\\Practica2.csproj|c:\\users\\user\\source\\repos\\practica2\\practica2\\models\\expediente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE436320-8DF5-47C4-BE76-F1FFBC4ABFC5}|Practica2\\Practica2.csproj|solutionrelative:practica2\\models\\expediente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE436320-8DF5-47C4-BE76-F1FFBC4ABFC5}|Practica2\\Practica2.csproj|c:\\users\\user\\source\\repos\\practica2\\practica2\\models\\cita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE436320-8DF5-47C4-BE76-F1FFBC4ABFC5}|Practica2\\Practica2.csproj|solutionrelative:practica2\\models\\cita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE436320-8DF5-47C4-BE76-F1FFBC4ABFC5}|Practica2\\Practica2.csproj|c:\\users\\user\\source\\repos\\practica2\\practica2\\models\\enfermero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE436320-8DF5-47C4-BE76-F1FFBC4ABFC5}|Practica2\\Practica2.csproj|solutionrelative:practica2\\models\\enfermero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE436320-8DF5-47C4-BE76-F1FFBC4ABFC5}|Practica2\\Practica2.csproj|c:\\users\\user\\source\\repos\\practica2\\practica2\\controllers\\enfermerocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE436320-8DF5-47C4-BE76-F1FFBC4ABFC5}|Practica2\\Practica2.csproj|solutionrelative:practica2\\controllers\\enfermerocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE436320-8DF5-47C4-BE76-F1FFBC4ABFC5}|Practica2\\Practica2.csproj|c:\\users\\user\\source\\repos\\practica2\\practica2\\controllers\\medicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE436320-8DF5-47C4-BE76-F1FFBC4ABFC5}|Practica2\\Practica2.csproj|solutionrelative:practica2\\controllers\\medicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE436320-8DF5-47C4-BE76-F1FFBC4ABFC5}|Practica2\\Practica2.csproj|c:\\users\\user\\source\\repos\\practica2\\practica2\\controllers\\hospitalizacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE436320-8DF5-47C4-BE76-F1FFBC4ABFC5}|Practica2\\Practica2.csproj|solutionrelative:practica2\\controllers\\hospitalizacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE436320-8DF5-47C4-BE76-F1FFBC4ABFC5}|Practica2\\Practica2.csproj|c:\\users\\user\\source\\repos\\practica2\\practica2\\controllers\\expedientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE436320-8DF5-47C4-BE76-F1FFBC4ABFC5}|Practica2\\Practica2.csproj|solutionrelative:practica2\\controllers\\expedientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE436320-8DF5-47C4-BE76-F1FFBC4ABFC5}|Practica2\\Practica2.csproj|c:\\users\\user\\source\\repos\\practica2\\practica2\\controllers\\citacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE436320-8DF5-47C4-BE76-F1FFBC4ABFC5}|Practica2\\Practica2.csproj|solutionrelative:practica2\\controllers\\citacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE436320-8DF5-47C4-BE76-F1FFBC4ABFC5}|Practica2\\Practica2.csproj|c:\\users\\user\\source\\repos\\practica2\\practica2\\controllers\\pacientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE436320-8DF5-47C4-BE76-F1FFBC4ABFC5}|Practica2\\Practica2.csproj|solutionrelative:practica2\\controllers\\pacientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE436320-8DF5-47C4-BE76-F1FFBC4ABFC5}|Practica2\\Practica2.csproj|c:\\users\\user\\source\\repos\\practica2\\practica2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE436320-8DF5-47C4-BE76-F1FFBC4ABFC5}|Practica2\\Practica2.csproj|solutionrelative:practica2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20241123045630_segunda.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Practica2\\Practica2\\Migrations\\20241123045630_segunda.cs",
+              "RelativeDocumentMoniker": "Practica2\\Migrations\\20241123045630_segunda.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Practica2\\Practica2\\Migrations\\20241123045630_segunda.cs",
+              "RelativeToolTip": "Practica2\\Migrations\\20241123045630_segunda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T04:56:33.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EnfermeroController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Practica2\\Practica2\\Controllers\\EnfermeroController.cs",
+              "RelativeDocumentMoniker": "Practica2\\Controllers\\EnfermeroController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Practica2\\Practica2\\Controllers\\EnfermeroController.cs",
+              "RelativeToolTip": "Practica2\\Controllers\\EnfermeroController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T04:33:34.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CitaController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Practica2\\Practica2\\Controllers\\CitaController.cs",
+              "RelativeDocumentMoniker": "Practica2\\Controllers\\CitaController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Practica2\\Practica2\\Controllers\\CitaController.cs",
+              "RelativeToolTip": "Practica2\\Controllers\\CitaController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAGQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T04:27:04.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Enfermero.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Practica2\\Practica2\\Models\\Enfermero.cs",
+              "RelativeDocumentMoniker": "Practica2\\Models\\Enfermero.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Practica2\\Practica2\\Models\\Enfermero.cs",
+              "RelativeToolTip": "Practica2\\Models\\Enfermero.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T20:21:25.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cita.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Practica2\\Practica2\\Models\\Cita.cs",
+              "RelativeDocumentMoniker": "Practica2\\Models\\Cita.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Practica2\\Practica2\\Models\\Cita.cs",
+              "RelativeToolTip": "Practica2\\Models\\Cita.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T20:28:40.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Expediente.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Practica2\\Practica2\\Models\\Expediente.cs",
+              "RelativeDocumentMoniker": "Practica2\\Models\\Expediente.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Practica2\\Practica2\\Models\\Expediente.cs",
+              "RelativeToolTip": "Practica2\\Models\\Expediente.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T21:05:05.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Hospitalizacion.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Practica2\\Practica2\\Models\\Hospitalizacion.cs",
+              "RelativeDocumentMoniker": "Practica2\\Models\\Hospitalizacion.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Practica2\\Practica2\\Models\\Hospitalizacion.cs",
+              "RelativeToolTip": "Practica2\\Models\\Hospitalizacion.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T20:41:36.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Medico.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Practica2\\Practica2\\Models\\Medico.cs",
+              "RelativeDocumentMoniker": "Practica2\\Models\\Medico.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Practica2\\Practica2\\Models\\Medico.cs",
+              "RelativeToolTip": "Practica2\\Models\\Medico.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABAAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T17:07:07.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Paciente.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Practica2\\Practica2\\Models\\Paciente.cs",
+              "RelativeDocumentMoniker": "Practica2\\Models\\Paciente.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Practica2\\Practica2\\Models\\Paciente.cs",
+              "RelativeToolTip": "Practica2\\Models\\Paciente.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAB0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T16:12:41.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ExpedienteController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Practica2\\Practica2\\Controllers\\ExpedienteController.cs",
+              "RelativeDocumentMoniker": "Practica2\\Controllers\\ExpedienteController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Practica2\\Practica2\\Controllers\\ExpedienteController.cs",
+              "RelativeToolTip": "Practica2\\Controllers\\ExpedienteController.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAGMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T04:34:51.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HospitalizacionController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Practica2\\Practica2\\Controllers\\HospitalizacionController.cs",
+              "RelativeDocumentMoniker": "Practica2\\Controllers\\HospitalizacionController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Practica2\\Practica2\\Controllers\\HospitalizacionController.cs",
+              "RelativeToolTip": "Practica2\\Controllers\\HospitalizacionController.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAG4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T04:39:53.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MedicoController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Practica2\\Practica2\\Controllers\\MedicoController.cs",
+              "RelativeDocumentMoniker": "Practica2\\Controllers\\MedicoController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Practica2\\Practica2\\Controllers\\MedicoController.cs",
+              "RelativeToolTip": "Practica2\\Controllers\\MedicoController.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T04:41:06.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PacienteController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Practica2\\Practica2\\Controllers\\PacienteController.cs",
+              "RelativeDocumentMoniker": "Practica2\\Controllers\\PacienteController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Practica2\\Practica2\\Controllers\\PacienteController.cs",
+              "RelativeToolTip": "Practica2\\Controllers\\PacienteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T22:25:10.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Practica2\\Practica2\\Program.cs",
+              "RelativeDocumentMoniker": "Practica2\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Practica2\\Practica2\\Program.cs",
+              "RelativeToolTip": "Practica2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAACFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T21:47:55.711Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
