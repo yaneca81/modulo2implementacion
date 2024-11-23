@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SATORU GOJO\\source\\repos\\TeleMedicina\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F7B4164-1C33-4B85-953E-CE77E0181C15}|TeleMedicina.csproj|c:\\users\\satoru gojo\\source\\repos\\telemedicina\\controllers\\citacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F7B4164-1C33-4B85-953E-CE77E0181C15}|TeleMedicina.csproj|solutionrelative:controllers\\citacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F7B4164-1C33-4B85-953E-CE77E0181C15}|TeleMedicina.csproj|c:\\users\\satoru gojo\\source\\repos\\telemedicina\\controllers\\pacientecontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F7B4164-1C33-4B85-953E-CE77E0181C15}|TeleMedicina.csproj|solutionrelative:controllers\\pacientecontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F7B4164-1C33-4B85-953E-CE77E0181C15}|TeleMedicina.csproj|c:\\users\\satoru gojo\\source\\repos\\telemedicina\\controllers\\medicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F7B4164-1C33-4B85-953E-CE77E0181C15}|TeleMedicina.csproj|solutionrelative:controllers\\medicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F7B4164-1C33-4B85-953E-CE77E0181C15}|TeleMedicina.csproj|c:\\users\\satoru gojo\\source\\repos\\telemedicina\\controllers\\historialmedicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F7B4164-1C33-4B85-953E-CE77E0181C15}|TeleMedicina.csproj|solutionrelative:controllers\\historialmedicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F7B4164-1C33-4B85-953E-CE77E0181C15}|TeleMedicina.csproj|c:\\users\\satoru gojo\\source\\repos\\telemedicina\\controllers\\tratamientocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F7B4164-1C33-4B85-953E-CE77E0181C15}|TeleMedicina.csproj|solutionrelative:controllers\\tratamientocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CitaController.cs",
+              "DocumentMoniker": "C:\\Users\\SATORU GOJO\\source\\repos\\TeleMedicina\\Controllers\\CitaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CitaController.cs",
+              "ToolTip": "C:\\Users\\SATORU GOJO\\source\\repos\\TeleMedicina\\Controllers\\CitaController.cs",
+              "RelativeToolTip": "Controllers\\CitaController.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAcwB4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T03:40:51.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TratamientoController.cs",
+              "DocumentMoniker": "C:\\Users\\SATORU GOJO\\source\\repos\\TeleMedicina\\Controllers\\TratamientoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TratamientoController.cs",
+              "ToolTip": "C:\\Users\\SATORU GOJO\\source\\repos\\TeleMedicina\\Controllers\\TratamientoController.cs",
+              "RelativeToolTip": "Controllers\\TratamientoController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T03:39:51.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HistorialMedicoController.cs",
+              "DocumentMoniker": "C:\\Users\\SATORU GOJO\\source\\repos\\TeleMedicina\\Controllers\\HistorialMedicoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HistorialMedicoController.cs",
+              "ToolTip": "C:\\Users\\SATORU GOJO\\source\\repos\\TeleMedicina\\Controllers\\HistorialMedicoController.cs",
+              "RelativeToolTip": "Controllers\\HistorialMedicoController.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAcwDEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T03:38:49.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MedicoController.cs",
+              "DocumentMoniker": "C:\\Users\\SATORU GOJO\\source\\repos\\TeleMedicina\\Controllers\\MedicoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MedicoController.cs",
+              "ToolTip": "C:\\Users\\SATORU GOJO\\source\\repos\\TeleMedicina\\Controllers\\MedicoController.cs",
+              "RelativeToolTip": "Controllers\\MedicoController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwDgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T03:31:19.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PacienteController .cs",
+              "DocumentMoniker": "C:\\Users\\SATORU GOJO\\source\\repos\\TeleMedicina\\Controllers\\PacienteController .cs",
+              "RelativeDocumentMoniker": "Controllers\\PacienteController .cs",
+              "ToolTip": "C:\\Users\\SATORU GOJO\\source\\repos\\TeleMedicina\\Controllers\\PacienteController .cs",
+              "RelativeToolTip": "Controllers\\PacienteController .cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA3wCoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T03:20:48.561Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

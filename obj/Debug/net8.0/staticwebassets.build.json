@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "kVzpd9ehGR2du3/JWBh1eTnx9nO2re3BvCLRf5dDVcg=",
+  "Source": "TeleMedicina",
+  "BasePath": "_content/TeleMedicina",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
