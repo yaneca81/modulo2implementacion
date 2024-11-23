@@ -7,7 +7,7 @@ namespace Practica2.Models
     {
         [Key]
         public int Id { get; set; }
-        public ICollection<Detalle_Pedido> Detalle_Pedidos { get; set; }
+        //public ICollection<Detalle_Pedido> Detalle_Pedidos { get; set; }
         public int IdUsuario { get; set; }
         [ForeignKey(nameof(IdUsuario))]
         public Usuario Usuario { get; set; }

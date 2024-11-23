@@ -19,10 +19,11 @@ namespace Practica2.Controllers
         public async Task<ActionResult<Platillo>> Post(Platillo reserva)
         {
             var id = await _context.Menus.FindAsync(reserva.IdMenu);
+            
             reserva.Menu = id;
             var rese = _context.Platillos.Add(reserva);
             await _context.SaveChangesAsync();
-            return Ok("Platillos Registrados");
+            return Ok("Pedido registrado exitosamente.");
         }
         [HttpGet("Listar")]
         public async Task<ActionResult<IEnumerable<Platillo>>> Get()

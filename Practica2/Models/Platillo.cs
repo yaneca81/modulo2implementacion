@@ -7,7 +7,6 @@ namespace Practica2.Models
     {
         [Key]
         public int Id { get; set; }
-        public ICollection<Detalle_Pedido> Detalle_Pedidos { get; set; }
         public int IdMenu { get; set; }
         [ForeignKey(nameof(IdMenu))]
         public Menu Menu { get; set; }
@@ -23,5 +22,7 @@ namespace Practica2.Models
         public int Precio { get; set; }
         [Required(ErrorMessage = "El campo es requerido")]
         public int Cantidad { get; set; }
+
+        //public ICollection<Detalle_Pedido> Detalle_Pedidos { get; set; }
     }
 }

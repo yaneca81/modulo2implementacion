@@ -15,21 +15,6 @@ namespace Practica2.Data
         public DbSet<Platillo> Platillos { get; set; }
         public DbSet<Detalle_Pedido> DetallePedidos { get;set; }
         public DbSet<Pago> Pagos { get; set; }
-        protected override void OnModelCreating(ModelBuilder modelBuilder)
-        {
-            base.OnModelCreating(modelBuilder);
-
-            modelBuilder.Entity<Detalle_Pedido>()
-                .HasOne(dp => dp.Pedido)
-                .WithMany(p => p.Detalle_Pedidos)
-                .HasForeignKey(dp => dp.IdPedido)
-                .OnDelete(DeleteBehavior.Restrict); // Cambiar a Restrict o NoAction
-
-            modelBuilder.Entity<Detalle_Pedido>()
-                .HasOne(dp => dp.Platillo)
-                .WithMany(pl => pl.Detalle_Pedidos)
-                .HasForeignKey(dp => dp.IdPlatillo)
-                .OnDelete(DeleteBehavior.Restrict); // Cambiar a Restrict o NoAction
-        }
+       
     }
 }
