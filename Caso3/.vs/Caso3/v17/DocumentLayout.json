@@ -1,0 +1,356 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\Desktop\\Caso3\\Caso3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F1E0A83-2679-42E7-A874-5DADD28CB82F}|Caso3\\Caso3.csproj|c:\\users\\acer\\desktop\\caso3\\caso3\\caso3\\dtos\\menudto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F1E0A83-2679-42E7-A874-5DADD28CB82F}|Caso3\\Caso3.csproj|solutionrelative:caso3\\dtos\\menudto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F1E0A83-2679-42E7-A874-5DADD28CB82F}|Caso3\\Caso3.csproj|c:\\users\\acer\\desktop\\caso3\\caso3\\caso3\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F1E0A83-2679-42E7-A874-5DADD28CB82F}|Caso3\\Caso3.csproj|solutionrelative:caso3\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F1E0A83-2679-42E7-A874-5DADD28CB82F}|Caso3\\Caso3.csproj|c:\\users\\acer\\desktop\\caso3\\caso3\\caso3\\dtos\\pedidodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F1E0A83-2679-42E7-A874-5DADD28CB82F}|Caso3\\Caso3.csproj|solutionrelative:caso3\\dtos\\pedidodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F1E0A83-2679-42E7-A874-5DADD28CB82F}|Caso3\\Caso3.csproj|c:\\users\\acer\\desktop\\caso3\\caso3\\caso3\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F1E0A83-2679-42E7-A874-5DADD28CB82F}|Caso3\\Caso3.csproj|solutionrelative:caso3\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F1E0A83-2679-42E7-A874-5DADD28CB82F}|Caso3\\Caso3.csproj|c:\\users\\acer\\desktop\\caso3\\caso3\\caso3\\dtos\\detallepedidodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F1E0A83-2679-42E7-A874-5DADD28CB82F}|Caso3\\Caso3.csproj|solutionrelative:caso3\\dtos\\detallepedidodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F1E0A83-2679-42E7-A874-5DADD28CB82F}|Caso3\\Caso3.csproj|c:\\users\\acer\\desktop\\caso3\\caso3\\caso3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8F1E0A83-2679-42E7-A874-5DADD28CB82F}|Caso3\\Caso3.csproj|solutionrelative:caso3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ACER\\Desktop\\Caso3\\Caso3\\Caso3\\Migrations\\20241123103411_fis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Caso3\\Migrations\\20241123103411_fis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F1E0A83-2679-42E7-A874-5DADD28CB82F}|Caso3\\Caso3.csproj|c:\\users\\acer\\desktop\\caso3\\caso3\\caso3\\models\\restaurante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F1E0A83-2679-42E7-A874-5DADD28CB82F}|Caso3\\Caso3.csproj|solutionrelative:caso3\\models\\restaurante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F1E0A83-2679-42E7-A874-5DADD28CB82F}|Caso3\\Caso3.csproj|c:\\users\\acer\\desktop\\caso3\\caso3\\caso3\\controllers\\pagocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F1E0A83-2679-42E7-A874-5DADD28CB82F}|Caso3\\Caso3.csproj|solutionrelative:caso3\\controllers\\pagocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F1E0A83-2679-42E7-A874-5DADD28CB82F}|Caso3\\Caso3.csproj|c:\\users\\acer\\desktop\\caso3\\caso3\\caso3\\dtos\\pagodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F1E0A83-2679-42E7-A874-5DADD28CB82F}|Caso3\\Caso3.csproj|solutionrelative:caso3\\dtos\\pagodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F1E0A83-2679-42E7-A874-5DADD28CB82F}|Caso3\\Caso3.csproj|c:\\users\\acer\\desktop\\caso3\\caso3\\caso3\\models\\pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F1E0A83-2679-42E7-A874-5DADD28CB82F}|Caso3\\Caso3.csproj|solutionrelative:caso3\\models\\pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F1E0A83-2679-42E7-A874-5DADD28CB82F}|Caso3\\Caso3.csproj|c:\\users\\acer\\desktop\\caso3\\caso3\\caso3\\controllers\\detallepedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F1E0A83-2679-42E7-A874-5DADD28CB82F}|Caso3\\Caso3.csproj|solutionrelative:caso3\\controllers\\detallepedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F1E0A83-2679-42E7-A874-5DADD28CB82F}|Caso3\\Caso3.csproj|c:\\users\\acer\\desktop\\caso3\\caso3\\caso3\\models\\detallepedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F1E0A83-2679-42E7-A874-5DADD28CB82F}|Caso3\\Caso3.csproj|solutionrelative:caso3\\models\\detallepedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F1E0A83-2679-42E7-A874-5DADD28CB82F}|Caso3\\Caso3.csproj|c:\\users\\acer\\desktop\\caso3\\caso3\\caso3\\models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F1E0A83-2679-42E7-A874-5DADD28CB82F}|Caso3\\Caso3.csproj|solutionrelative:caso3\\models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F1E0A83-2679-42E7-A874-5DADD28CB82F}|Caso3\\Caso3.csproj|c:\\users\\acer\\desktop\\caso3\\caso3\\caso3\\models\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F1E0A83-2679-42E7-A874-5DADD28CB82F}|Caso3\\Caso3.csproj|solutionrelative:caso3\\models\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F1E0A83-2679-42E7-A874-5DADD28CB82F}|Caso3\\Caso3.csproj|c:\\users\\acer\\desktop\\caso3\\caso3\\caso3\\controllers\\restaurantecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F1E0A83-2679-42E7-A874-5DADD28CB82F}|Caso3\\Caso3.csproj|solutionrelative:caso3\\controllers\\restaurantecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F1E0A83-2679-42E7-A874-5DADD28CB82F}|Caso3\\Caso3.csproj|c:\\users\\acer\\desktop\\caso3\\caso3\\caso3\\dtos\\restaurantedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F1E0A83-2679-42E7-A874-5DADD28CB82F}|Caso3\\Caso3.csproj|solutionrelative:caso3\\dtos\\restaurantedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F1E0A83-2679-42E7-A874-5DADD28CB82F}|Caso3\\Caso3.csproj|c:\\users\\acer\\desktop\\caso3\\caso3\\caso3\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F1E0A83-2679-42E7-A874-5DADD28CB82F}|Caso3\\Caso3.csproj|solutionrelative:caso3\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F1E0A83-2679-42E7-A874-5DADD28CB82F}|Caso3\\Caso3.csproj|c:\\users\\acer\\desktop\\caso3\\caso3\\caso3\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F1E0A83-2679-42E7-A874-5DADD28CB82F}|Caso3\\Caso3.csproj|solutionrelative:caso3\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F1E0A83-2679-42E7-A874-5DADD28CB82F}|Caso3\\Caso3.csproj|c:\\users\\acer\\desktop\\caso3\\caso3\\caso3\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F1E0A83-2679-42E7-A874-5DADD28CB82F}|Caso3\\Caso3.csproj|solutionrelative:caso3\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20241123103411_fis.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Caso3\\Caso3\\Caso3\\Migrations\\20241123103411_fis.cs",
+              "RelativeDocumentMoniker": "Caso3\\Migrations\\20241123103411_fis.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\Caso3\\Caso3\\Caso3\\Migrations\\20241123103411_fis.cs",
+              "RelativeToolTip": "Caso3\\Migrations\\20241123103411_fis.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAywAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T10:34:12.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Caso3\\Caso3\\Caso3\\appsettings.json",
+              "RelativeDocumentMoniker": "Caso3\\appsettings.json",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\Caso3\\Caso3\\Caso3\\appsettings.json",
+              "RelativeToolTip": "Caso3\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-23T10:30:15.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DetallePedidoDto.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Caso3\\Caso3\\Caso3\\DTOs\\DetallePedidoDto.cs",
+              "RelativeDocumentMoniker": "Caso3\\DTOs\\DetallePedidoDto.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\Caso3\\Caso3\\Caso3\\DTOs\\DetallePedidoDto.cs",
+              "RelativeToolTip": "Caso3\\DTOs\\DetallePedidoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T15:57:08.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PedidoController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Caso3\\Caso3\\Caso3\\Controllers\\PedidoController.cs",
+              "RelativeDocumentMoniker": "Caso3\\Controllers\\PedidoController.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\Caso3\\Caso3\\Caso3\\Controllers\\PedidoController.cs",
+              "RelativeToolTip": "Caso3\\Controllers\\PedidoController.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAEcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T15:56:12.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PedidoDto.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Caso3\\Caso3\\Caso3\\DTOs\\PedidoDto.cs",
+              "RelativeDocumentMoniker": "Caso3\\DTOs\\PedidoDto.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\Caso3\\Caso3\\Caso3\\DTOs\\PedidoDto.cs",
+              "RelativeToolTip": "Caso3\\DTOs\\PedidoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T15:55:47.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Caso3\\Caso3\\Caso3\\Controllers\\MenuController.cs",
+              "RelativeDocumentMoniker": "Caso3\\Controllers\\MenuController.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\Caso3\\Caso3\\Caso3\\Controllers\\MenuController.cs",
+              "RelativeToolTip": "Caso3\\Controllers\\MenuController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAABBwBQAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T15:51:51.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MenuDto.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Caso3\\Caso3\\Caso3\\DTOs\\MenuDto.cs",
+              "RelativeDocumentMoniker": "Caso3\\DTOs\\MenuDto.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\Caso3\\Caso3\\Caso3\\DTOs\\MenuDto.cs",
+              "RelativeToolTip": "Caso3\\DTOs\\MenuDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T15:51:16.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UsuarioDto.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Caso3\\Caso3\\Caso3\\DTOs\\UsuarioDto.cs",
+              "RelativeDocumentMoniker": "Caso3\\DTOs\\UsuarioDto.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\Caso3\\Caso3\\Caso3\\DTOs\\UsuarioDto.cs",
+              "RelativeToolTip": "Caso3\\DTOs\\UsuarioDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T15:39:12.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RestauranteDto.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Caso3\\Caso3\\Caso3\\DTOs\\RestauranteDto.cs",
+              "RelativeDocumentMoniker": "Caso3\\DTOs\\RestauranteDto.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\Caso3\\Caso3\\Caso3\\DTOs\\RestauranteDto.cs",
+              "RelativeToolTip": "Caso3\\DTOs\\RestauranteDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T15:36:41.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Restaurante.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Caso3\\Caso3\\Caso3\\Models\\Restaurante.cs",
+              "RelativeDocumentMoniker": "Caso3\\Models\\Restaurante.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\Caso3\\Caso3\\Caso3\\Models\\Restaurante.cs",
+              "RelativeToolTip": "Caso3\\Models\\Restaurante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T15:21:54.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DetallePedidoController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Caso3\\Caso3\\Caso3\\Controllers\\DetallePedidoController.cs",
+              "RelativeDocumentMoniker": "Caso3\\Controllers\\DetallePedidoController.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\Caso3\\Caso3\\Caso3\\Controllers\\DetallePedidoController.cs",
+              "RelativeToolTip": "Caso3\\Controllers\\DetallePedidoController.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAywG0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T15:57:46.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PagoDto.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Caso3\\Caso3\\Caso3\\DTOs\\PagoDto.cs",
+              "RelativeDocumentMoniker": "Caso3\\DTOs\\PagoDto.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\Caso3\\Caso3\\Caso3\\DTOs\\PagoDto.cs",
+              "RelativeToolTip": "Caso3\\DTOs\\PagoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T15:59:04.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PagoController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Caso3\\Caso3\\Caso3\\Controllers\\PagoController.cs",
+              "RelativeDocumentMoniker": "Caso3\\Controllers\\PagoController.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\Caso3\\Caso3\\Caso3\\Controllers\\PagoController.cs",
+              "RelativeToolTip": "Caso3\\Controllers\\PagoController.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAHQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T15:59:28.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RestauranteController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Caso3\\Caso3\\Caso3\\Controllers\\RestauranteController.cs",
+              "RelativeDocumentMoniker": "Caso3\\Controllers\\RestauranteController.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\Caso3\\Caso3\\Caso3\\Controllers\\RestauranteController.cs",
+              "RelativeToolTip": "Caso3\\Controllers\\RestauranteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T15:33:53.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Caso3\\Caso3\\Caso3\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Caso3\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\Caso3\\Caso3\\Caso3\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "Caso3\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAywHEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T15:30:56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Pago.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Caso3\\Caso3\\Caso3\\Models\\Pago.cs",
+              "RelativeDocumentMoniker": "Caso3\\Models\\Pago.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\Caso3\\Caso3\\Caso3\\Models\\Pago.cs",
+              "RelativeToolTip": "Caso3\\Models\\Pago.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAzwAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T15:22:58.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DetallePedido.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Caso3\\Caso3\\Caso3\\Models\\DetallePedido.cs",
+              "RelativeDocumentMoniker": "Caso3\\Models\\DetallePedido.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\Caso3\\Caso3\\Caso3\\Models\\DetallePedido.cs",
+              "RelativeToolTip": "Caso3\\Models\\DetallePedido.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T15:22:34.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Caso3\\Caso3\\Caso3\\Models\\Pedido.cs",
+              "RelativeDocumentMoniker": "Caso3\\Models\\Pedido.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\Caso3\\Caso3\\Caso3\\Models\\Pedido.cs",
+              "RelativeToolTip": "Caso3\\Models\\Pedido.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T15:22:19.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Caso3\\Caso3\\Caso3\\Models\\Menu.cs",
+              "RelativeDocumentMoniker": "Caso3\\Models\\Menu.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\Caso3\\Caso3\\Caso3\\Models\\Menu.cs",
+              "RelativeToolTip": "Caso3\\Models\\Menu.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T15:22:06.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Caso3\\Caso3\\Caso3\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Caso3\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\Caso3\\Caso3\\Caso3\\Models\\Usuario.cs",
+              "RelativeToolTip": "Caso3\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T15:21:40.684Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
