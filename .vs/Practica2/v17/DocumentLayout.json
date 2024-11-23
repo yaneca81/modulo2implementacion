@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Pictures\\MDGSISTEMASDEIN\\Practica2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD995EE-738A-47DC-8964-CBC06D3993F3}|Practica2\\Practica2.csproj|c:\\users\\usuario\\pictures\\mdgsistemasdein\\practica2\\practica2\\controllers\\citacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBD995EE-738A-47DC-8964-CBC06D3993F3}|Practica2\\Practica2.csproj|solutionrelative:practica2\\controllers\\citacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD995EE-738A-47DC-8964-CBC06D3993F3}|Practica2\\Practica2.csproj|c:\\users\\usuario\\pictures\\mdgsistemasdein\\practica2\\practica2\\controllers\\medicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBD995EE-738A-47DC-8964-CBC06D3993F3}|Practica2\\Practica2.csproj|solutionrelative:practica2\\controllers\\medicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD995EE-738A-47DC-8964-CBC06D3993F3}|Practica2\\Practica2.csproj|c:\\users\\usuario\\pictures\\mdgsistemasdein\\practica2\\practica2\\controllers\\expedientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBD995EE-738A-47DC-8964-CBC06D3993F3}|Practica2\\Practica2.csproj|solutionrelative:practica2\\controllers\\expedientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD995EE-738A-47DC-8964-CBC06D3993F3}|Practica2\\Practica2.csproj|c:\\users\\usuario\\pictures\\mdgsistemasdein\\practica2\\practica2\\controllers\\pacientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBD995EE-738A-47DC-8964-CBC06D3993F3}|Practica2\\Practica2.csproj|solutionrelative:practica2\\controllers\\pacientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD995EE-738A-47DC-8964-CBC06D3993F3}|Practica2\\Practica2.csproj|c:\\users\\usuario\\pictures\\mdgsistemasdein\\practica2\\practica2\\controllers\\hospitalizacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBD995EE-738A-47DC-8964-CBC06D3993F3}|Practica2\\Practica2.csproj|solutionrelative:practica2\\controllers\\hospitalizacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD995EE-738A-47DC-8964-CBC06D3993F3}|Practica2\\Practica2.csproj|c:\\users\\usuario\\pictures\\mdgsistemasdein\\practica2\\practica2\\modelos\\cita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBD995EE-738A-47DC-8964-CBC06D3993F3}|Practica2\\Practica2.csproj|solutionrelative:practica2\\modelos\\cita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD995EE-738A-47DC-8964-CBC06D3993F3}|Practica2\\Practica2.csproj|c:\\users\\usuario\\pictures\\mdgsistemasdein\\practica2\\practica2\\modelos\\expediente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBD995EE-738A-47DC-8964-CBC06D3993F3}|Practica2\\Practica2.csproj|solutionrelative:practica2\\modelos\\expediente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD995EE-738A-47DC-8964-CBC06D3993F3}|Practica2\\Practica2.csproj|c:\\users\\usuario\\pictures\\mdgsistemasdein\\practica2\\practica2\\modelos\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBD995EE-738A-47DC-8964-CBC06D3993F3}|Practica2\\Practica2.csproj|solutionrelative:practica2\\modelos\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD995EE-738A-47DC-8964-CBC06D3993F3}|Practica2\\Practica2.csproj|c:\\users\\usuario\\pictures\\mdgsistemasdein\\practica2\\practica2\\modelos\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBD995EE-738A-47DC-8964-CBC06D3993F3}|Practica2\\Practica2.csproj|solutionrelative:practica2\\modelos\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD995EE-738A-47DC-8964-CBC06D3993F3}|Practica2\\Practica2.csproj|c:\\users\\usuario\\pictures\\mdgsistemasdein\\practica2\\practica2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBD995EE-738A-47DC-8964-CBC06D3993F3}|Practica2\\Practica2.csproj|solutionrelative:practica2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD995EE-738A-47DC-8964-CBC06D3993F3}|Practica2\\Practica2.csproj|c:\\users\\usuario\\pictures\\mdgsistemasdein\\practica2\\practica2\\migrations\\20241122000238_primera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBD995EE-738A-47DC-8964-CBC06D3993F3}|Practica2\\Practica2.csproj|solutionrelative:practica2\\migrations\\20241122000238_primera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HospitalizacionController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Pictures\\MDGSISTEMASDEIN\\Practica2\\Practica2\\Controllers\\HospitalizacionController.cs",
+              "RelativeDocumentMoniker": "Practica2\\Controllers\\HospitalizacionController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Pictures\\MDGSISTEMASDEIN\\Practica2\\Practica2\\Controllers\\HospitalizacionController.cs",
+              "RelativeToolTip": "Practica2\\Controllers\\HospitalizacionController.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAFEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T05:13:28.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CitaController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Pictures\\MDGSISTEMASDEIN\\Practica2\\Practica2\\Controllers\\CitaController.cs",
+              "RelativeDocumentMoniker": "Practica2\\Controllers\\CitaController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Pictures\\MDGSISTEMASDEIN\\Practica2\\Practica2\\Controllers\\CitaController.cs",
+              "RelativeToolTip": "Practica2\\Controllers\\CitaController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T04:49:52.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExpedienteController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Pictures\\MDGSISTEMASDEIN\\Practica2\\Practica2\\Controllers\\ExpedienteController.cs",
+              "RelativeDocumentMoniker": "Practica2\\Controllers\\ExpedienteController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Pictures\\MDGSISTEMASDEIN\\Practica2\\Practica2\\Controllers\\ExpedienteController.cs",
+              "RelativeToolTip": "Practica2\\Controllers\\ExpedienteController.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAABAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T04:38:40.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PacienteController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Pictures\\MDGSISTEMASDEIN\\Practica2\\Practica2\\Controllers\\PacienteController.cs",
+              "RelativeDocumentMoniker": "Practica2\\Controllers\\PacienteController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Pictures\\MDGSISTEMASDEIN\\Practica2\\Practica2\\Controllers\\PacienteController.cs",
+              "RelativeToolTip": "Practica2\\Controllers\\PacienteController.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAuwE0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T00:03:31.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Expediente.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Pictures\\MDGSISTEMASDEIN\\Practica2\\Practica2\\Modelos\\Expediente.cs",
+              "RelativeDocumentMoniker": "Practica2\\Modelos\\Expediente.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Pictures\\MDGSISTEMASDEIN\\Practica2\\Practica2\\Modelos\\Expediente.cs",
+              "RelativeToolTip": "Practica2\\Modelos\\Expediente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T23:11:04.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MedicoController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Pictures\\MDGSISTEMASDEIN\\Practica2\\Practica2\\Controllers\\MedicoController.cs",
+              "RelativeDocumentMoniker": "Practica2\\Controllers\\MedicoController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Pictures\\MDGSISTEMASDEIN\\Practica2\\Practica2\\Controllers\\MedicoController.cs",
+              "RelativeToolTip": "Practica2\\Controllers\\MedicoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T04:30:16.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cita.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Pictures\\MDGSISTEMASDEIN\\Practica2\\Practica2\\Modelos\\Cita.cs",
+              "RelativeDocumentMoniker": "Practica2\\Modelos\\Cita.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Pictures\\MDGSISTEMASDEIN\\Practica2\\Practica2\\Modelos\\Cita.cs",
+              "RelativeToolTip": "Practica2\\Modelos\\Cita.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T04:35:16.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Medico.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Pictures\\MDGSISTEMASDEIN\\Practica2\\Practica2\\Modelos\\Medico.cs",
+              "RelativeDocumentMoniker": "Practica2\\Modelos\\Medico.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Pictures\\MDGSISTEMASDEIN\\Practica2\\Practica2\\Modelos\\Medico.cs",
+              "RelativeToolTip": "Practica2\\Modelos\\Medico.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T04:45:15.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Pictures\\MDGSISTEMASDEIN\\Practica2\\Practica2\\Program.cs",
+              "RelativeDocumentMoniker": "Practica2\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Pictures\\MDGSISTEMASDEIN\\Practica2\\Practica2\\Program.cs",
+              "RelativeToolTip": "Practica2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T00:00:55.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Paciente.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Pictures\\MDGSISTEMASDEIN\\Practica2\\Practica2\\Modelos\\Paciente.cs",
+              "RelativeDocumentMoniker": "Practica2\\Modelos\\Paciente.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Pictures\\MDGSISTEMASDEIN\\Practica2\\Practica2\\Modelos\\Paciente.cs",
+              "RelativeToolTip": "Practica2\\Modelos\\Paciente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T21:07:57.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20241122000238_Primera.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Pictures\\MDGSISTEMASDEIN\\Practica2\\Practica2\\Migrations\\20241122000238_Primera.cs",
+              "RelativeDocumentMoniker": "Practica2\\Migrations\\20241122000238_Primera.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Pictures\\MDGSISTEMASDEIN\\Practica2\\Practica2\\Migrations\\20241122000238_Primera.cs",
+              "RelativeToolTip": "Practica2\\Migrations\\20241122000238_Primera.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T00:02:38.236Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
