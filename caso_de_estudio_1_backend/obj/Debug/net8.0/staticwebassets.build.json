@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "Hash": "Y+VOcsaEx6NqZCCdsxLfg4af01/n+IKMvrq5Q2t9EMQ=",
+  "Source": "caso_de_estudio_1_backend",
+  "BasePath": "_content/caso_de_estudio_1_backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "caso_de_estudio_1_backend\\wwwroot",
+      "Source": "caso_de_estudio_1_backend",
+      "ContentRoot": "E:\\MATERIAS\\MODALIDAD DE GRADO\\MD-2\\visual-studio\\caso_de_estudio_1_backend\\caso_de_estudio_1_backend\\wwwroot\\",
+      "BasePath": "_content/caso_de_estudio_1_backend",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [],
+  "Endpoints": []
+}

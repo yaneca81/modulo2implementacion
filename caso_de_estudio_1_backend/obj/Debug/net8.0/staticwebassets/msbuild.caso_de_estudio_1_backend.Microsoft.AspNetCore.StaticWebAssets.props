@@ -1,0 +1,76 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cv\4441fd16-35d6-4ef9-ad78-91d6bb55559c.pdf'))">
+      <SourceType>Package</SourceType>
+      <SourceId>caso_de_estudio_1_backend</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/caso_de_estudio_1_backend</BasePath>
+      <RelativePath>cv/4441fd16-35d6-4ef9-ad78-91d6bb55559c.pdf</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>hxnix4smo4</Fingerprint>
+      <Integrity>WyVTyw4gy1T1LdWvcU1A9CZqZrjRYF6w9bun7zxsibE=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cv\4441fd16-35d6-4ef9-ad78-91d6bb55559c.pdf'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cv\791786cc-7ae0-4df4-bb19-5bbb9717515a.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>caso_de_estudio_1_backend</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/caso_de_estudio_1_backend</BasePath>
+      <RelativePath>cv/791786cc-7ae0-4df4-bb19-5bbb9717515a.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>ncmp86a0wy</Fingerprint>
+      <Integrity>mUJiXsyjshXGd9hjA/+p/8dWxaOaSm3feEaAmwWbc08=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cv\791786cc-7ae0-4df4-bb19-5bbb9717515a.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cv\9ad550ed-63c4-4340-9b15-f1ab4ed200b1.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>caso_de_estudio_1_backend</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/caso_de_estudio_1_backend</BasePath>
+      <RelativePath>cv/9ad550ed-63c4-4340-9b15-f1ab4ed200b1.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>xiv9s3lr4z</Fingerprint>
+      <Integrity>2Z9RHQ4Lo01uKEviF+teyE58p8E4DLnlvix7/9gHzCs=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cv\9ad550ed-63c4-4340-9b15-f1ab4ed200b1.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cv\e30a1705-2546-48a3-81fe-4318468c5d5c.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>caso_de_estudio_1_backend</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/caso_de_estudio_1_backend</BasePath>
+      <RelativePath>cv/e30a1705-2546-48a3-81fe-4318468c5d5c.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>xiv9s3lr4z</Fingerprint>
+      <Integrity>2Z9RHQ4Lo01uKEviF+teyE58p8E4DLnlvix7/9gHzCs=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cv\e30a1705-2546-48a3-81fe-4318468c5d5c.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+  </ItemGroup>
+</Project>

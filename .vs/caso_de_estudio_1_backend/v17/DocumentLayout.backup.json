@@ -1,0 +1,253 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\MATERIAS\\MODALIDAD DE GRADO\\MD-2\\visual-studio\\caso_de_estudio_1_backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34E9F3E1-F4F9-4360-B6D2-B16265E13824}|caso_de_estudio_1_backend\\caso_de_estudio_1_backend.csproj|e:\\materias\\modalidad de grado\\md-2\\visual-studio\\caso_de_estudio_1_backend\\caso_de_estudio_1_backend\\dtos\\associateupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34E9F3E1-F4F9-4360-B6D2-B16265E13824}|caso_de_estudio_1_backend\\caso_de_estudio_1_backend.csproj|solutionrelative:caso_de_estudio_1_backend\\dtos\\associateupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34E9F3E1-F4F9-4360-B6D2-B16265E13824}|caso_de_estudio_1_backend\\caso_de_estudio_1_backend.csproj|e:\\materias\\modalidad de grado\\md-2\\visual-studio\\caso_de_estudio_1_backend\\caso_de_estudio_1_backend\\dtos\\associatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34E9F3E1-F4F9-4360-B6D2-B16265E13824}|caso_de_estudio_1_backend\\caso_de_estudio_1_backend.csproj|solutionrelative:caso_de_estudio_1_backend\\dtos\\associatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34E9F3E1-F4F9-4360-B6D2-B16265E13824}|caso_de_estudio_1_backend\\caso_de_estudio_1_backend.csproj|e:\\materias\\modalidad de grado\\md-2\\visual-studio\\caso_de_estudio_1_backend\\caso_de_estudio_1_backend\\dtos\\associatecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34E9F3E1-F4F9-4360-B6D2-B16265E13824}|caso_de_estudio_1_backend\\caso_de_estudio_1_backend.csproj|solutionrelative:caso_de_estudio_1_backend\\dtos\\associatecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34E9F3E1-F4F9-4360-B6D2-B16265E13824}|caso_de_estudio_1_backend\\caso_de_estudio_1_backend.csproj|e:\\materias\\modalidad de grado\\md-2\\visual-studio\\caso_de_estudio_1_backend\\caso_de_estudio_1_backend\\controllers\\curriculumvitaecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34E9F3E1-F4F9-4360-B6D2-B16265E13824}|caso_de_estudio_1_backend\\caso_de_estudio_1_backend.csproj|solutionrelative:caso_de_estudio_1_backend\\controllers\\curriculumvitaecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34E9F3E1-F4F9-4360-B6D2-B16265E13824}|caso_de_estudio_1_backend\\caso_de_estudio_1_backend.csproj|e:\\materias\\modalidad de grado\\md-2\\visual-studio\\caso_de_estudio_1_backend\\caso_de_estudio_1_backend\\service\\associateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34E9F3E1-F4F9-4360-B6D2-B16265E13824}|caso_de_estudio_1_backend\\caso_de_estudio_1_backend.csproj|solutionrelative:caso_de_estudio_1_backend\\service\\associateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34E9F3E1-F4F9-4360-B6D2-B16265E13824}|caso_de_estudio_1_backend\\caso_de_estudio_1_backend.csproj|e:\\materias\\modalidad de grado\\md-2\\visual-studio\\caso_de_estudio_1_backend\\caso_de_estudio_1_backend\\helpers\\localfilestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34E9F3E1-F4F9-4360-B6D2-B16265E13824}|caso_de_estudio_1_backend\\caso_de_estudio_1_backend.csproj|solutionrelative:caso_de_estudio_1_backend\\helpers\\localfilestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34E9F3E1-F4F9-4360-B6D2-B16265E13824}|caso_de_estudio_1_backend\\caso_de_estudio_1_backend.csproj|e:\\materias\\modalidad de grado\\md-2\\visual-studio\\caso_de_estudio_1_backend\\caso_de_estudio_1_backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34E9F3E1-F4F9-4360-B6D2-B16265E13824}|caso_de_estudio_1_backend\\caso_de_estudio_1_backend.csproj|solutionrelative:caso_de_estudio_1_backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34E9F3E1-F4F9-4360-B6D2-B16265E13824}|caso_de_estudio_1_backend\\caso_de_estudio_1_backend.csproj|e:\\materias\\modalidad de grado\\md-2\\visual-studio\\caso_de_estudio_1_backend\\caso_de_estudio_1_backend\\repository\\associaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34E9F3E1-F4F9-4360-B6D2-B16265E13824}|caso_de_estudio_1_backend\\caso_de_estudio_1_backend.csproj|solutionrelative:caso_de_estudio_1_backend\\repository\\associaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34E9F3E1-F4F9-4360-B6D2-B16265E13824}|caso_de_estudio_1_backend\\caso_de_estudio_1_backend.csproj|e:\\materias\\modalidad de grado\\md-2\\visual-studio\\caso_de_estudio_1_backend\\caso_de_estudio_1_backend\\controllers\\associatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34E9F3E1-F4F9-4360-B6D2-B16265E13824}|caso_de_estudio_1_backend\\caso_de_estudio_1_backend.csproj|solutionrelative:caso_de_estudio_1_backend\\controllers\\associatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34E9F3E1-F4F9-4360-B6D2-B16265E13824}|caso_de_estudio_1_backend\\caso_de_estudio_1_backend.csproj|e:\\materias\\modalidad de grado\\md-2\\visual-studio\\caso_de_estudio_1_backend\\caso_de_estudio_1_backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{34E9F3E1-F4F9-4360-B6D2-B16265E13824}|caso_de_estudio_1_backend\\caso_de_estudio_1_backend.csproj|solutionrelative:caso_de_estudio_1_backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34E9F3E1-F4F9-4360-B6D2-B16265E13824}|caso_de_estudio_1_backend\\caso_de_estudio_1_backend.csproj|e:\\materias\\modalidad de grado\\md-2\\visual-studio\\caso_de_estudio_1_backend\\caso_de_estudio_1_backend\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34E9F3E1-F4F9-4360-B6D2-B16265E13824}|caso_de_estudio_1_backend\\caso_de_estudio_1_backend.csproj|solutionrelative:caso_de_estudio_1_backend\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34E9F3E1-F4F9-4360-B6D2-B16265E13824}|caso_de_estudio_1_backend\\caso_de_estudio_1_backend.csproj|e:\\materias\\modalidad de grado\\md-2\\visual-studio\\caso_de_estudio_1_backend\\caso_de_estudio_1_backend\\service\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34E9F3E1-F4F9-4360-B6D2-B16265E13824}|caso_de_estudio_1_backend\\caso_de_estudio_1_backend.csproj|solutionrelative:caso_de_estudio_1_backend\\service\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34E9F3E1-F4F9-4360-B6D2-B16265E13824}|caso_de_estudio_1_backend\\caso_de_estudio_1_backend.csproj|e:\\materias\\modalidad de grado\\md-2\\visual-studio\\caso_de_estudio_1_backend\\caso_de_estudio_1_backend\\repository\\paymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34E9F3E1-F4F9-4360-B6D2-B16265E13824}|caso_de_estudio_1_backend\\caso_de_estudio_1_backend.csproj|solutionrelative:caso_de_estudio_1_backend\\repository\\paymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34E9F3E1-F4F9-4360-B6D2-B16265E13824}|caso_de_estudio_1_backend\\caso_de_estudio_1_backend.csproj|e:\\materias\\modalidad de grado\\md-2\\visual-studio\\caso_de_estudio_1_backend\\caso_de_estudio_1_backend\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34E9F3E1-F4F9-4360-B6D2-B16265E13824}|caso_de_estudio_1_backend\\caso_de_estudio_1_backend.csproj|solutionrelative:caso_de_estudio_1_backend\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AssociateUpdateDto.cs",
+              "DocumentMoniker": "E:\\MATERIAS\\MODALIDAD DE GRADO\\MD-2\\visual-studio\\caso_de_estudio_1_backend\\caso_de_estudio_1_backend\\DTOs\\AssociateUpdateDto.cs",
+              "RelativeDocumentMoniker": "caso_de_estudio_1_backend\\DTOs\\AssociateUpdateDto.cs",
+              "ToolTip": "E:\\MATERIAS\\MODALIDAD DE GRADO\\MD-2\\visual-studio\\caso_de_estudio_1_backend\\caso_de_estudio_1_backend\\DTOs\\AssociateUpdateDto.cs",
+              "RelativeToolTip": "caso_de_estudio_1_backend\\DTOs\\AssociateUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T10:49:39.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AssociateDto.cs",
+              "DocumentMoniker": "E:\\MATERIAS\\MODALIDAD DE GRADO\\MD-2\\visual-studio\\caso_de_estudio_1_backend\\caso_de_estudio_1_backend\\DTOs\\AssociateDto.cs",
+              "RelativeDocumentMoniker": "caso_de_estudio_1_backend\\DTOs\\AssociateDto.cs",
+              "ToolTip": "E:\\MATERIAS\\MODALIDAD DE GRADO\\MD-2\\visual-studio\\caso_de_estudio_1_backend\\caso_de_estudio_1_backend\\DTOs\\AssociateDto.cs",
+              "RelativeToolTip": "caso_de_estudio_1_backend\\DTOs\\AssociateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T10:49:15.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AssociateCreateDto.cs",
+              "DocumentMoniker": "E:\\MATERIAS\\MODALIDAD DE GRADO\\MD-2\\visual-studio\\caso_de_estudio_1_backend\\caso_de_estudio_1_backend\\DTOs\\AssociateCreateDto.cs",
+              "RelativeDocumentMoniker": "caso_de_estudio_1_backend\\DTOs\\AssociateCreateDto.cs",
+              "ToolTip": "E:\\MATERIAS\\MODALIDAD DE GRADO\\MD-2\\visual-studio\\caso_de_estudio_1_backend\\caso_de_estudio_1_backend\\DTOs\\AssociateCreateDto.cs",
+              "RelativeToolTip": "caso_de_estudio_1_backend\\DTOs\\AssociateCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T10:49:03.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AssociateService.cs",
+              "DocumentMoniker": "E:\\MATERIAS\\MODALIDAD DE GRADO\\MD-2\\visual-studio\\caso_de_estudio_1_backend\\caso_de_estudio_1_backend\\Service\\AssociateService.cs",
+              "RelativeDocumentMoniker": "caso_de_estudio_1_backend\\Service\\AssociateService.cs",
+              "ToolTip": "E:\\MATERIAS\\MODALIDAD DE GRADO\\MD-2\\visual-studio\\caso_de_estudio_1_backend\\caso_de_estudio_1_backend\\Service\\AssociateService.cs",
+              "RelativeToolTip": "caso_de_estudio_1_backend\\Service\\AssociateService.cs",
+              "ViewState": "AgIAACEAAAAAMzMzMzMLwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T10:45:26.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LocalFileStorage.cs",
+              "DocumentMoniker": "E:\\MATERIAS\\MODALIDAD DE GRADO\\MD-2\\visual-studio\\caso_de_estudio_1_backend\\caso_de_estudio_1_backend\\Helpers\\LocalFileStorage.cs",
+              "RelativeDocumentMoniker": "caso_de_estudio_1_backend\\Helpers\\LocalFileStorage.cs",
+              "ToolTip": "E:\\MATERIAS\\MODALIDAD DE GRADO\\MD-2\\visual-studio\\caso_de_estudio_1_backend\\caso_de_estudio_1_backend\\Helpers\\LocalFileStorage.cs",
+              "RelativeToolTip": "caso_de_estudio_1_backend\\Helpers\\LocalFileStorage.cs",
+              "ViewState": "AgIAAAUAAACA//////8XwBIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T01:39:31.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AssociateRepository.cs",
+              "DocumentMoniker": "E:\\MATERIAS\\MODALIDAD DE GRADO\\MD-2\\visual-studio\\caso_de_estudio_1_backend\\caso_de_estudio_1_backend\\Repository\\AssociateRepository.cs",
+              "RelativeDocumentMoniker": "caso_de_estudio_1_backend\\Repository\\AssociateRepository.cs",
+              "ToolTip": "E:\\MATERIAS\\MODALIDAD DE GRADO\\MD-2\\visual-studio\\caso_de_estudio_1_backend\\caso_de_estudio_1_backend\\Repository\\AssociateRepository.cs",
+              "RelativeToolTip": "caso_de_estudio_1_backend\\Repository\\AssociateRepository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAUwCYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T23:29:40.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\MATERIAS\\MODALIDAD DE GRADO\\MD-2\\visual-studio\\caso_de_estudio_1_backend\\caso_de_estudio_1_backend\\appsettings.json",
+              "RelativeDocumentMoniker": "caso_de_estudio_1_backend\\appsettings.json",
+              "ToolTip": "E:\\MATERIAS\\MODALIDAD DE GRADO\\MD-2\\visual-studio\\caso_de_estudio_1_backend\\caso_de_estudio_1_backend\\appsettings.json",
+              "RelativeToolTip": "caso_de_estudio_1_backend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-21T23:19:03.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\MATERIAS\\MODALIDAD DE GRADO\\MD-2\\visual-studio\\caso_de_estudio_1_backend\\caso_de_estudio_1_backend\\Program.cs",
+              "RelativeDocumentMoniker": "caso_de_estudio_1_backend\\Program.cs",
+              "ToolTip": "E:\\MATERIAS\\MODALIDAD DE GRADO\\MD-2\\visual-studio\\caso_de_estudio_1_backend\\caso_de_estudio_1_backend\\Program.cs",
+              "RelativeToolTip": "caso_de_estudio_1_backend\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T23:18:17.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\MATERIAS\\MODALIDAD DE GRADO\\MD-2\\visual-studio\\caso_de_estudio_1_backend\\caso_de_estudio_1_backend\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "caso_de_estudio_1_backend\\Data\\AppDbContext.cs",
+              "ToolTip": "E:\\MATERIAS\\MODALIDAD DE GRADO\\MD-2\\visual-studio\\caso_de_estudio_1_backend\\caso_de_estudio_1_backend\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "caso_de_estudio_1_backend\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T19:08:23.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PaymentRepository.cs",
+              "DocumentMoniker": "E:\\MATERIAS\\MODALIDAD DE GRADO\\MD-2\\visual-studio\\caso_de_estudio_1_backend\\caso_de_estudio_1_backend\\Repository\\PaymentRepository.cs",
+              "RelativeDocumentMoniker": "caso_de_estudio_1_backend\\Repository\\PaymentRepository.cs",
+              "ToolTip": "E:\\MATERIAS\\MODALIDAD DE GRADO\\MD-2\\visual-studio\\caso_de_estudio_1_backend\\caso_de_estudio_1_backend\\Repository\\PaymentRepository.cs",
+              "RelativeToolTip": "caso_de_estudio_1_backend\\Repository\\PaymentRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAywAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T18:16:14.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "E:\\MATERIAS\\MODALIDAD DE GRADO\\MD-2\\visual-studio\\caso_de_estudio_1_backend\\caso_de_estudio_1_backend\\Service\\PaymentService.cs",
+              "RelativeDocumentMoniker": "caso_de_estudio_1_backend\\Service\\PaymentService.cs",
+              "ToolTip": "E:\\MATERIAS\\MODALIDAD DE GRADO\\MD-2\\visual-studio\\caso_de_estudio_1_backend\\caso_de_estudio_1_backend\\Service\\PaymentService.cs",
+              "RelativeToolTip": "caso_de_estudio_1_backend\\Service\\PaymentService.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAAAAsAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T18:16:02.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "E:\\MATERIAS\\MODALIDAD DE GRADO\\MD-2\\visual-studio\\caso_de_estudio_1_backend\\caso_de_estudio_1_backend\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "caso_de_estudio_1_backend\\Controllers\\PaymentController.cs",
+              "ToolTip": "E:\\MATERIAS\\MODALIDAD DE GRADO\\MD-2\\visual-studio\\caso_de_estudio_1_backend\\caso_de_estudio_1_backend\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "caso_de_estudio_1_backend\\Controllers\\PaymentController.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAxwKkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T18:08:23.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CurriculumVitaeController.cs",
+              "DocumentMoniker": "E:\\MATERIAS\\MODALIDAD DE GRADO\\MD-2\\visual-studio\\caso_de_estudio_1_backend\\caso_de_estudio_1_backend\\Controllers\\CurriculumVitaeController.cs",
+              "RelativeDocumentMoniker": "caso_de_estudio_1_backend\\Controllers\\CurriculumVitaeController.cs",
+              "ToolTip": "E:\\MATERIAS\\MODALIDAD DE GRADO\\MD-2\\visual-studio\\caso_de_estudio_1_backend\\caso_de_estudio_1_backend\\Controllers\\CurriculumVitaeController.cs",
+              "RelativeToolTip": "caso_de_estudio_1_backend\\Controllers\\CurriculumVitaeController.cs",
+              "ViewState": "AgIAAE0AAACAmpmZmZkvwFAAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T18:05:23.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AssociateController.cs",
+              "DocumentMoniker": "E:\\MATERIAS\\MODALIDAD DE GRADO\\MD-2\\visual-studio\\caso_de_estudio_1_backend\\caso_de_estudio_1_backend\\Controllers\\AssociateController.cs",
+              "RelativeDocumentMoniker": "caso_de_estudio_1_backend\\Controllers\\AssociateController.cs",
+              "ToolTip": "E:\\MATERIAS\\MODALIDAD DE GRADO\\MD-2\\visual-studio\\caso_de_estudio_1_backend\\caso_de_estudio_1_backend\\Controllers\\AssociateController.cs",
+              "RelativeToolTip": "caso_de_estudio_1_backend\\Controllers\\AssociateController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwBAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T18:00:11.395Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

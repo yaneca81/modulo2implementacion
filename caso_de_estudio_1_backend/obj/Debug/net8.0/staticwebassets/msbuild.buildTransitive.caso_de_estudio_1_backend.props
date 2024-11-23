@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\caso_de_estudio_1_backend.props" />
+</Project>
